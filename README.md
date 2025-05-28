@@ -1,6 +1,6 @@
 # Nutri Guardian -  Menu and Food Suggestion Application for People with Food Allergies
 <div align="center">
-    <img src="./profile/readme/images/logo.jpg" alt="Nutri Guardian" height='80px'/>
+    <img src="./profile/readme/images/logo.png" alt="Nutri Guardian" height='80px'/>
     <p>Nutri Guardian is a mobile application that provides menu and food suggestion application for people with food allergies.</p>
 </div>
 <div align='center'>
