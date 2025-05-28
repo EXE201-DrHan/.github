@@ -98,15 +98,15 @@ Additional services and third-party APIs that enhance functionality, such as AI,
 
 <a id="uc-diagram"></a>
 ## 2. Use Case Diagram
-<img src="./profile/readme/images/NutriGuard-UsecaseDiagram.png" alt="NutriGuard-UsecaseDiagram" />
+<img src="./readme/images/NutriGuard-UsecaseDiagram.png" alt="NutriGuard-UsecaseDiagram" />
 
 <a id="db-design"></a>
 ## 3. Database Design
-<img src="./profile/readme/images/NutriGuard-ERD.PNG" alt="NutriGuard-ERD" />
+<img src="./readme/images/NutriGuard-ERD.PNG" alt="NutriGuard-ERD" />
 
 <a id="architecture"></a>
 ## 4. Architecture Diagram
-<img src="./profile/readme/images/NutriGuard-ArchitectureDiagram.png" alt="NutriGuard-ArchitectureDiagram" />
+<img src="./readme/images/NutriGuard-ArchitectureDiagram.png" alt="NutriGuard-ArchitectureDiagram" />
 
 <a id="screen-flow"></a>
 ## 5. Screen Flow
