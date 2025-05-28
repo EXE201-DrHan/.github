@@ -102,7 +102,7 @@ Additional services and third-party APIs that enhance functionality, such as AI,
 
 <a id="db-design"></a>
 ## 3. Database Design
-<img src="./profile/readme/images/NutriGuard-ERD.png" alt="NutriGuard-ERD" />
+<img src="./profile/readme/images/NutriGuard-ERD.PNG" alt="NutriGuard-ERD" />
 
 <a id="architecture"></a>
 ## 4. Architecture Diagram
