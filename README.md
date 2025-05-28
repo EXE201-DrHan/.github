@@ -93,7 +93,7 @@ Additional services and third-party APIs that enhance functionality, such as AI,
 | ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white) | AI-powered chatbot service |
 | ![PayOs](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) | Online payment processing |
 | ![OpenFoodFact API](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) | Food infomation and meal planner |
-| ![Azure Storage](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white) | Image and video storage |
+| ![Azure Storage](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white) | Image and video storage |
 
 
 <a id="uc-diagram"></a>
